@@ -1,5 +1,7 @@
 # goilets
-This is my app for learning ielts and having real time access to speaking with native speakers to improve speaking session which is our main selling point: goielts app.
+Introducing GoIELTS, the premier app designed to revolutionize your IELTS learning experience. Our innovative platform provides comprehensive resources for mastering the IELTS exam, coupled with real-time access to native speakers for personalized speaking practice sessions—making it your ultimate tool for exam preparation. Built using React Native, GoIELTS offers seamless performance and compatibility across both Android and iOS devices, ensuring that users can access our cutting-edge features anytime, anywhere.
+
+
 
 
 
